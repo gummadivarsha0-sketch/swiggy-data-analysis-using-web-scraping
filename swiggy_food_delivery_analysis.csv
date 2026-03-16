@@ -1,0 +1,554 @@
+Restaurant,Rating,Cuisine,Delivery_Time,Location,Distance_km,Restaurant_ID,Delivery_Category
+Pizza Hut,4.5,Pizzas,28,Kachiguda,1.6,408177,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",30,Himayath Nagar,2.7,360967,Medium Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",42,ABIDS,1.6,603116,Slow Delivery
+Domino's Pizza,4.6,"Pizzas,Italian,Pastas,Desserts",25,Kachiguda,3.0,28768,Fast Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",21,Narayanguda,1.8,108986,Fast Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",28,Nallakunta & Vidyanagar,2.7,370408,Medium Delivery
+Lucky Restaurant,4.0,"Biryani,Tandoor",40,Banjara Hills,4.7,367769,Slow Delivery
+Dum Safar Biryani,4.1,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",35,ABIDS,1.6,639526,Medium Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",34,Himayat Nagar,3.6,560732,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.7,"Desserts,Ice Cream",30,Himayatnagar,2.8,356688,Medium Delivery
+Royal Tiffin Centre,4.1,South Indian,35,Abids & Koti,1.2,16158,Medium Delivery
+Al Rabea Al Arabi Cafeteria,4.5,"Lebanese,Arabian",33,Santoshnagar & Saidabad,5.8,109168,Medium Delivery
+Taj Mahal-Abids,4.6,"South Indian,North Indian,Biryani,Snacks",34,Abids,1.6,7203,Medium Delivery
+Go Zero Ice Creams & Desserts,3.9,"Ice Cream,Desserts,Healthy Food",31,Abids,1.9,853135,Medium Delivery
+Imperial Multicuisine Restaurant,4.2,"Biryani,Chinese,Indian,Kebabs,Tandoor",35,Redhills,3.7,262087,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",25,Narayanguda,1.8,355747,Fast Delivery
+Capital Multi Cuisine Restaurant,3.8,"Haleem,Biryani,Kebabs",30,Malakpet,3.7,57903,Medium Delivery
+Haiking Chinese Restaurant,4.3,"Chinese,Asian,Seafood,Pan-Asian",36,Himayath Nagar,2.7,296084,Slow Delivery
+Subway,4.1,"sandwich,Salads,wrap,Healthy Food",35,Himayath Nagar,2.7,12046,Medium Delivery
+KFC,4.1,"Burgers,Fast Food,Rolls & Wraps",27,Kachiguda,1.8,419707,Medium Delivery
+Raju Gari Biryani,4.0,"Chinese,Biryani",35,Kothapet & Dilsukhnagar,6.2,991080,Medium Delivery
+Pista House Haleem,4.6,Haleem,26,Abids,1.6,521425,Medium Delivery
+Naintara ( By Sri Navtara Bhelpuri ),4.4,"Italian-American,Fast Food,Snacks",36,Himayath Nagar,1.2,637176,Slow Delivery
+Pizza Hut,4.1,Pizzas,21,SR Nagar,0.4,81962,Fast Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",28,Ameerpet,1.9,569957,Medium Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",22,Begumpet,1.3,108985,Fast Delivery
+Domino's Pizza,4.1,"Pizzas,Italian,Pastas,Desserts",25,Sanjeeva Reddy Nagar,1.3,24636,Fast Delivery
+Lucky Restaurant,4.1,"Biryani,Tandoor",28,Banjara Hills,4.0,358725,Medium Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",27,Sanath Nagar,2.8,370399,Medium Delivery
+Natural Ice Cream,4.6,"Ice Cream,Desserts",24,Sanath Nagar,1.7,335333,Fast Delivery
+Srikanya,4.3,"Biryani,Andhra,South Indian",34,Panjagutta,3.0,3324,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.6,"Pizzas,Italian,Desserts",25,Khairatabad Circle No.17,1.1,681567,Fast Delivery
+Meridian Restaurant,4.4,"Biryani,Chinese,Kebabs",31,Panjagutta,2.8,25251,Medium Delivery
+Blue Fox,4.4,"Biryani,Chinese,Tandoor",28,Ameerpet,0.7,2782,Medium Delivery
+Theobroma,4.5,Desserts,36,Somajiguda,3.8,376914,Slow Delivery
+Go Zero Ice Creams & Desserts,4.5,"Ice Cream,Desserts,Healthy Food",34,Gokul Tower,3.8,688357,Medium Delivery
+Cream Stone Ice Cream,4.5,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",35,SP Road,4.9,2341,Medium Delivery
+KFC,3.9,"Burgers,Fast Food,Rolls & Wraps",37,Concourse Level,1.2,427059,Slow Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",25,Begumpet,1.3,355746,Fast Delivery
+The Pizza Project by Oven Story,4.1,"Pizzas,Italian,Desserts,Beverages",30,Sanath Nagar,1.7,837817,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.5,"Desserts,Ice Cream",34,Begumpet,2.5,63177,Medium Delivery
+Ohri's Cake Nation,4.4,"Bakery,Desserts,Beverages",29,Ameerpet,2.0,73759,Medium Delivery
+Chinese Wok,4.1,"Chinese,Asian,Tibetan,Desserts",25,Gachibowli,0.6,491475,Fast Delivery
+Barbeque Nation,4.3,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",52,Banjara Hills,4.9,300363,Slow Delivery
+Little Italy,4.3,"Italian,Pizzas,Pastas,Salads,Desserts",52,Jubilee Hills,7.7,1203,Slow Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",48,Banjarahills,5.0,1111967,Slow Delivery
+Homely,4.0,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",49,Banjarahills,5.0,77671,Slow Delivery
+Pizza Hut,4.4,Pizzas,46,Kukatpally,1.2,447828,Slow Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",32,Kukatpally,0.4,363823,Medium Delivery
+Barbeque Nation,4.4,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",48,Kukatpally,2.8,300355,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",25,Kukatpally,1.7,832053,Fast Delivery
+Homely,4.1,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",47,Kukatpally,3.6,193570,Slow Delivery
+Pista House Haleem,4.6,Haleem,32,Kukatpally,2.2,370608,Medium Delivery
+Bakingo,4.5,"Bakery,Desserts,Beverages,Snacks",31,Nizampet,0.9,104530,Medium Delivery
+Kritunga Jagavi's Restaurant,4.1,"Biryani,Andhra,Rayalaseema,South Indian,Chinese",34,PNR Empire Raji Reddy Nagar,,58799,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.4,"Pizzas,Italian,Desserts",25,Venkat Nagar Colony,1.2,681538,Fast Delivery
+Hotel Sitara Grand - Dhanturi Group of hotels,4.0,"Biryani,Chinese,South Indian,Tandoor",32,Kukatpally,0.9,4123,Medium Delivery
+Go Zero Ice Creams & Desserts,4.2,"Ice Cream,Desserts,Healthy Food",34,Kukatpally,0.8,657377,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",29,Kukatpally,1.7,832054,Medium Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",30,Kukatpally,1.1,324758,Medium Delivery
+KFC,4.2,"Burgers,Fast Food,Rolls & Wraps",34,KPHB,1.0,617598,Medium Delivery
+Chinese Wok,3.9,"Chinese,Asian,Tibetan,Desserts",35,Kukatpally,2.5,492267,Medium Delivery
+BOX8 - Desi Meals,4.4,"North Indian,Biryani,Thalis,Home Food",25,Venkat Nagar Colony,1.2,374716,Fast Delivery
+Cafe Chokolade,4.3,"Ice Cream,Desserts",36,Kukatpally2,1.7,841446,Slow Delivery
+Scoops Ice Cream,4.5,"Ice Cream,Desserts",27,Kukatpally,1.6,266095,Medium Delivery
+"The Dessert Heaven - Pastry, Brownie and Cakes",4.3,"Bakery,Desserts,Sweets,Ice Cream",27,Hmt Satavahana Nagar,0.4,442832,Medium Delivery
+Cakes By Flower Aura,4.4,"Bakery,Desserts",35,Nizampet,0.5,787225,Medium Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",44,Kukatpally,3.6,1111966,Slow Delivery
+Raju Gari Biryani,3.8,"Biryani,Snacks,Chinese,Mughlai",28,Kukatpally,1.5,292360,Medium Delivery
+SriKanya Comfort (Take way),4.3,"North Indian,Chinese,Beverages",30,Kukatpally,1.0,569063,Medium Delivery
+Pizza Hut,4.3,Pizzas,38,Santosh Nagar,4.4,677776,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",36,Narayanguda,6.0,108986,Slow Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",39,Malakpet,6.1,650819,Slow Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",54,ABIDS,5.0,603116,Slow Delivery
+Pista House Haleem,4.5,"Haleem,Biryani",30,Charminar,2.5,370411,Medium Delivery
+Lucky Restaurant,4.3,"Biryani,Tandoor",30,Santosh Nagar,4.8,40377,Medium Delivery
+Go Zero Ice Creams & Desserts,3.9,"Ice Cream,Desserts,Healthy Food",41,Abids,4.9,853135,Slow Delivery
+Shah Ghouse Hotel & Restaurant,4.4,"Biryani,Chinese,Mughlai,Tandoor",30,Charminar,2.1,79706,Medium Delivery
+Al Rabea Al Arabi Cafeteria,4.5,"Lebanese,Arabian",34,Santoshnagar & Saidabad,6.8,109168,Medium Delivery
+Imperial Multicuisine Restaurant,4.4,"Biryani,Chinese,Indian,Kebabs,Tandoor",31,Saroor Nagar West,4.0,140117,Medium Delivery
+Burger King,4.2,"Burgers,American",31,Santoshnagar & Saidabad,5.0,644865,Medium Delivery
+KFC,4.2,"Burgers,Fast Food,Rolls & Wraps",42,Abids,4.8,37103,Slow Delivery
+Capital Multi Cuisine Restaurant,3.8,"Haleem,Biryani,Kebabs",36,Malakpet,6.2,57903,Slow Delivery
+Scoops Ice Cream,4.6,"Ice Cream,Desserts",31,Charminar,1.4,77902,Medium Delivery
+Dum Safar Biryani,4.1,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",47,ABIDS,5.0,639526,Slow Delivery
+Cream Stone Ice Cream,4.4,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",32,Himayath Nagar,2.3,150646,Medium Delivery
+Paradise Biryani,4.4,"Biryani,Kebabs,North Indian,Hyderabadi",31,Charminar,0.9,425713,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",41,Narayanguda,6.0,355747,Slow Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",40,New Malakpet,6.2,362219,Slow Delivery
+Ibaco,4.7,"Ice Cream,Desserts",38,Kachiguda,5.8,49767,Slow Delivery
+Wow! Momo,4.4,"Momos,Chinese,fastfood,Asian,Beverages",34,Champapet,6.0,1123780,Medium Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",24,Charminar,1.1,854688,Fast Delivery
+Varalakshmi Tiffins,4.6,South Indian,41,Dilsukhnagar,6.8,157695,Slow Delivery
+Bakingo,4.6,"Bakery,Desserts,Beverages,Snacks",35,SV Towers Santosh Nagar,5.7,1271469,Medium Delivery
+Pizza Hut,4.5,Pizzas,31,Himayath Nagar,1.3,437301,Medium Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",22,Narayanguda,2.2,108986,Fast Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",44,ABIDS,2.2,603116,Slow Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",23,Himayath Nagar,1.3,360967,Fast Delivery
+Domino's Pizza,4.6,"Pizzas,Italian,Pastas,Desserts",25,Himayath Nagar,1.6,24613,Fast Delivery
+Pista House Haleem,4.6,Haleem,22,Kachiguda,1.1,370802,Fast Delivery
+Lucky Restaurant,4.0,"Biryani,Tandoor",35,Banjara Hills,3.0,367769,Medium Delivery
+Go Zero Ice Creams & Desserts,3.9,"Ice Cream,Desserts,Healthy Food",31,Abids,1.8,853135,Medium Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",20,Himayat Nagar,0.4,560732,Fast Delivery
+Ohri's Cake Nation,4.5,"Bakery,Desserts,Beverages",25,Basheerbagh,0.2,74979,Fast Delivery
+Blue Fox,4.4,"Biryani,Chinese,Tandoor",25,Himayath Nagar,1.1,2796,Fast Delivery
+Almond House,4.7,"Sweets,Desserts,Snacks,Beverages",25,Himayath Nagar,1.1,7003,Fast Delivery
+Meridian Restaurant,4.4,"Biryani,Chinese,Kebabs",36,Panjagutta,4.3,25251,Slow Delivery
+Haiking Chinese Restaurant,4.3,"Chinese,Asian,Seafood,Pan-Asian",31,Himayath Nagar,1.5,296084,Medium Delivery
+Imperial Multicuisine Restaurant,4.2,"Biryani,Chinese,Indian,Kebabs,Tandoor",35,Redhills,3.6,262087,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",28,Narayanguda,2.2,355747,Medium Delivery
+Paradise Biryani,4.2,"Biryani,Kebabs,North Indian,Hyderabadi",23,Himayath Nagar,1.1,7408,Fast Delivery
+Cream Stone Ice Cream,4.5,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",25,Basheer Bagh-Opp bajrang Pan shop,0.9,1970,Fast Delivery
+Chicha's,4.2,"Biryani,Hyderabadi,Indian,Street Food",36,Lakdi-Ka-Pul,2.7,5285,Slow Delivery
+Subway,4.1,"sandwich,Salads,wrap,Healthy Food",29,Himayath Nagar,1.3,12046,Medium Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",50,Banjarahills,6.3,1111967,Slow Delivery
+Homely,4.0,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",51,Banjarahills,6.3,77671,Slow Delivery
+Raju Gari Biryani,3.9,Biryani,32,Nallakunta & Vidyanagar,3.0,1022488,Medium Delivery
+Pizza Hut,4.0,Pizzas,42,Madhapur,0.9,10492,Slow Delivery
+Biryani By Kilo,4.1,"Biryani,Hyderabadi,Kebabs,Mughlai,Desserts",51,Gachibowli,3.7,594950,Slow Delivery
+Barbeque Nation,3.8,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",49,Kothaguda,3.0,300357,Slow Delivery
+NIC Ice Creams,4.5,"Ice Cream,Desserts",36,Siddhi Vinayak Nagar,2.1,128080,Slow Delivery
+Domino's Pizza,4.2,"Pizzas,Italian,Pastas,Desserts",25,Hitec City,0.6,24611,Fast Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",48,Madhapur,1.6,504595,Slow Delivery
+Homely,4.1,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",46,Kukatpally,3.0,193570,Slow Delivery
+LeanCrust Pizza- ThinCrust Experts,4.6,"Pizzas,Italian,Desserts",25,Jubilee Hills,1.1,695926,Fast Delivery
+Ohri's Cake Nation,4.2,"Bakery,Desserts,Beverages",31,Madhapur,1.4,90080,Medium Delivery
+Go Zero Ice Creams & Desserts,4.3,"Ice Cream,Desserts,Healthy Food",36,Madhapur,1.7,720430,Slow Delivery
+BOX8 - Desi Meals,4.6,"North Indian,Biryani,Thalis,Home Food",25,Jubilee Hills,1.1,695917,Fast Delivery
+Taco Bell,4.1,"Mexican,Fast Food,Snacks",36,Madhapur,0.6,66768,Slow Delivery
+Tossin Pizza,4.4,"Pizzas,Italian,Beverages,Desserts",30,Gachibowli,4.2,324362,Medium Delivery
+McDonald's Gourmet Burger Collection,4.4,"Burgers,Beverages,Cafe,Desserts",34,Madhapur,0.2,395243,Medium Delivery
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,"North Indian,Snacks,Fast Food,Tandoor",25,Jubilee Hills,1.1,695922,Fast Delivery
+Mealful Rolls - India's Biggest Rolls,4.3,"Fast Food,Snacks,North Indian,Desserts",25,Jubilee Hills,1.1,695919,Fast Delivery
+Daily Kitchen - Everyday Homely Meals,4.6,"Home Food,Indian,North Indian,Thalis",25,Madhapur,1.1,750454,Fast Delivery
+Home Plate by EatFit,4.1,"North Indian,Home Food,Healthy Food,Indian,Punjabi,South Indian,Rajasthani,Maharashtrian,Snacks,Desserts",34,Madhapur,2.0,628542,Medium Delivery
+Subway,4.1,"sandwich,Salads,wrap,Healthy Food",27,Hitec City,0.2,8785,Medium Delivery
+McDonald's,4.3,"Burgers,Beverages,Cafe,Desserts",35,Madhapur,0.2,23695,Medium Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",43,Kukatpally,3.0,1111966,Slow Delivery
+Little Italy,4.3,"Italian,Pizzas,Pastas,Salads,Desserts",47,Hitech City,1.4,984733,Slow Delivery
+Pizza Hut,4.3,Pizzas,37,Sanathnagar,3.6,595197,Slow Delivery
+Domino's Pizza,4.3,"Pizzas,Italian,Pastas,Desserts",25,Moosapet,0.3,79496,Fast Delivery
+Wow! Momo,4.4,"Momos,Chinese,fastfood,Asian,Beverages",36,Gachibowli,2.9,267251,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",30,Kukatpally,3.0,832053,Medium Delivery
+Barbeque Nation,4.4,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",57,Kukatpally,5.0,300355,Slow Delivery
+Homely,4.1,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",47,Kukatpally,3.7,193570,Slow Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",31,Sanath Nagar,3.8,370399,Medium Delivery
+Natural Ice Cream,4.6,"Ice Cream,Desserts",34,Sanath Nagar,4.2,335333,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",34,Kukatpally,3.0,832054,Medium Delivery
+Harley's Fine Baking,4.6,"Bakery,Desserts",23,Kukatpally,0.1,798842,Fast Delivery
+Sweet Truth - Cake and Desserts,4.1,"Desserts,Ice Cream,Bakery,Beverages",35,Sanath Nagar,4.2,35540,Medium Delivery
+KFC,4.0,"Burgers,Fast Food,Rolls & Wraps",21,Jeedimetla & Chintal,1.0,458199,Fast Delivery
+Makhani Darbar,3.8,"Kebabs,Mughlai,Beverages,Desserts",35,S R Nagar,4.2,801211,Medium Delivery
+Dum Safar Biryani,4.1,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",57,KUKATPALLY,5.0,639475,Slow Delivery
+AnTeRa Kitchen And Bar,4.3,"Indian,Biryani,Chinese",49,Jubilee Hills,5.6,459237,Slow Delivery
+Bakingo,4.5,"Bakery,Desserts,Beverages,Snacks",48,Nizampet,5.0,104530,Slow Delivery
+Go Zero Ice Creams & Desserts,4.2,"Ice Cream,Desserts,Healthy Food",51,Kukatpally,5.0,657377,Slow Delivery
+Wow! Chicken By Wow! Momo,3.9,"Burger,Biryani,American,fastfood",64,Kukatpally,5.8,577197,
+Cafe Coffee Day,4.0,"Beverages,Cafe,Snacks,Desserts,Burgers,Ice Cream,Bakery,Fast Food",36,Sanjeeva Reddy Nagar,4.9,18791,Slow Delivery
+Wow! China,3.7,"Chinese,Asian,fastfood,Beverages,Snacks",64,Lulu Mall,5.8,772165,
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",44,Kukatpally,3.7,1111966,Slow Delivery
+Raju Gari Biryani,4.0,"Chinese,Biryani",31,Ameerpet,4.4,999023,Medium Delivery
+Pizza Hut,4.4,Pizzas,24,Quthbullapur,1.6,442420,Fast Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",34,Kompally,5.6,448721,Medium Delivery
+Domino's Pizza,4.2,"Pizzas,Italian,Pastas,Desserts",25,Jeedimetla,1.6,28771,Fast Delivery
+Wow! Momo,4.4,"Momos,Chinese,fastfood,Asian,Beverages",44,Gachibowli,6.2,267251,Slow Delivery
+Barbeque Nation,3.7,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",53,Kompally,10.0,577517,Slow Delivery
+Pista House Haleem,4.6,Haleem,32,Suchitra Circle,4.7,370799,Medium Delivery
+Hotel Shubham Celebrations - Dhanturi Group of Hotels,4.2,"Biryani,Chinese,South Indian,Tandoor",24,Jeedimetla,1.8,50572,Fast Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",25,Suchitra Circle,2.1,335332,Fast Delivery
+KFC,4.1,"Burgers,Fast Food,Rolls & Wraps",22,Jeedimetla & Chintal,1.6,458200,Fast Delivery
+McDonald's,4.3,"Burgers,Beverages,Cafe,Desserts",35,Kompally,5.9,93241,Medium Delivery
+The Pizza Project by Oven Story,4.2,"Pizzas,Italian,Desserts,Beverages",32,Suchitra Circle,2.1,837923,Medium Delivery
+Hotel Swagath Grand - Dhanturi Group of Hotels,4.1,"Biryani,Chinese,South Indian,North Indian,Tandoor",35,Suchitra,4.5,14787,Medium Delivery
+Makhani Darbar,4.1,"Kebabs,Mughlai,Beverages,Desserts",30,Suchitra Circle,2.1,801338,Medium Delivery
+Veg Meals By LunchBox,4.3,"Thalis,North Indian,Biryani,South Indian,Desserts,Beverages",34,Suchitra Circle,2.1,263783,Medium Delivery
+Sweet Truth - Cake and Desserts,4.2,"Desserts,Ice Cream,Bakery,Beverages",25,Suchitra Circle,2.1,168822,Fast Delivery
+The Good Bowl,4.3,"Biryani,North Indian,Pastas,Punjabi,Desserts,Beverages",31,Suchitra Circle,2.1,168824,Medium Delivery
+The Biryani Life,3.6,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,Desserts,Beverages",29,Suchitra Circle,2.1,189424,Medium Delivery
+Faasos' Signature Wraps & Rolls,3.9,"Fast Food,Snacks,North Indian,Desserts,Beverages",32,Suchitra Circle,2.1,566334,Medium Delivery
+Veg Darbar by Behrouz Biryani,3.8,"Biryani,North Indian,Kebabs,Mughlai,Lucknowi,Hyderabadi,Desserts,Beverages",32,Suchitra Circle,2.1,575100,Medium Delivery
+Dum Safar Biryani,3.8,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",45,KOMPALLY,9.9,639522,Slow Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",26,Quthbullapur,2.2,1303655,Medium Delivery
+Raju Gari Biryani,3.9,Biryani,26,Alwal,2.8,1131070,Medium Delivery
+Pizza Hut,4.3,Pizzas,34,Secunderabad,3.0,644815,Medium Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",34,Necklace Mall,1.7,608721,Medium Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",22,Bhoiguda,1.5,359256,Fast Delivery
+Domino's Pizza,4.4,"Pizzas,Italian,Pastas,Desserts",25,Nallakunta & Vidyanagar,1.5,391316,Fast Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",25,Nallakunta & Vidyanagar,2.0,370408,Fast Delivery
+Go Zero Ice Creams & Desserts,3.9,"Ice Cream,Desserts,Healthy Food",42,Abids,5.0,853135,Slow Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",33,Himayat Nagar,3.5,560732,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,Ashok Nagar,0.6,681558,Fast Delivery
+Baskin Robbins,4.4,"Desserts,Ice Cream",27,Nallakunta & Vidyanagar,1.7,373904,Medium Delivery
+Grameen Kulfi,4.8,"Ice Cream,Desserts",29,Bhoiguda,1.5,359812,Medium Delivery
+Wow! Chicken By Wow! Momo,3.8,"Burger,Biryani,American,fastfood",34,Nallakunta & Vidyanagar,1.7,608720,Medium Delivery
+Cream Stone Ice Cream,4.5,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",44,Basheer Bagh-Opp bajrang Pan shop,5.0,1970,Slow Delivery
+Agra Sweets Banjara,4.5,"Sweets,Desserts,Chaat,Snacks,Beverages",30,East Nehru Nagar,3.8,9020,Medium Delivery
+Almond House,4.7,"Sweets,Desserts,Snacks,Beverages",35,Secunderabad,3.6,209311,Medium Delivery
+KFC,4.3,"Burgers,Fast Food,Rolls & Wraps",26,Nallakunta & Vidyanagar,1.9,729663,Medium Delivery
+McDonald's,4.4,"Burgers,Beverages,Cafe,Desserts",36,Himayath Nagar,3.6,23707,Slow Delivery
+Subway,4.4,"sandwich,Salads,wrap,Healthy Food",29,SD Road Rezimental Bazar,3.0,8786,Medium Delivery
+Theobroma,4.6,Desserts,29,Shivaji Nagar,3.0,368036,Medium Delivery
+Krispy Kreme - Doughnuts & Coffee,4.3,"Desserts,Cafe,Bakery,Coffee,Beverages,Snacks",26,SD Road,3.0,456702,Medium Delivery
+Concu,4.6,"Cafe,Desserts,Beverages",33,Maredpally,3.0,482701,Medium Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",53,ABIDS,4.8,603116,Slow Delivery
+Raju Gari Biryani,3.9,Biryani,25,Nallakunta & Vidyanagar,1.7,1022488,Fast Delivery
+4M Biryani House,4.4,"Biryani,Tandoor,Chinese",27,Musheerabad,0.4,131870,Medium Delivery
+Varalakshmi Tiffins,4.6,South Indian,32,Paradise circle,4.3,575804,Medium Delivery
+Pizza Hut,4.4,Pizzas,37,Attapur,2.3,11091,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",34,Toli Chowki,3.9,168402,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",52,Banjara Hills,7.4,312149,Slow Delivery
+Barbeque Nation,4.1,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",47,Attapur,4.7,659667,Slow Delivery
+Little Italy,4.3,"Italian,Pizzas,Pastas,Salads,Desserts",47,Jubilee Hills,5.0,1203,Slow Delivery
+Homely,3.6,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",30,Sun City,4.5,180324,Medium Delivery
+Pista House Haleem,4.5,Haleem,38,Mehdipatnam,4.5,370716,Slow Delivery
+Bakingo,4.6,Bakery,34,Tolichowki,4.2,436045,Medium Delivery
+Go Zero Ice Creams & Desserts,4.4,"Ice Cream,Desserts,Healthy Food",32,Manikonda,4.5,691049,Medium Delivery
+Grameen Kulfi,4.6,"Ice Cream,Desserts",41,Toli Chowki,3.9,355750,Slow Delivery
+LeanCrust Pizza- ThinCrust Experts,4.4,"Pizzas,Italian,Desserts",25,Mehdipatnam,3.0,681556,Fast Delivery
+Baskin Robbins - Ice Cream Desserts,4.4,Desserts,33,Toli Chowki,3.0,22260,Medium Delivery
+Al Rabea Al Arabi Cafeteria,4.4,"Arabian,Lebanese",34,Mehdipatnam,3.0,28108,Medium Delivery
+Imperial Multicuisine Restaurant,4.3,"Biryani,Chinese,Indian,Kebabs,Tandoor",36,Tolichowki,3.0,140111,Slow Delivery
+Paradise Biryani,4.2,"Biryani,Kebabs,North Indian,Hyderabadi",34,GUDIMALKAPUR,3.0,647286,Medium Delivery
+"Faasos - Wraps, Rolls & Shawarma",3.9,"Kebabs,Fast Food,Snacks,American,Healthy Food,Desserts,Beverages",30,Sun City,5.0,57211,Medium Delivery
+Behrouz Biryani,3.7,"Biryani,Kebabs,Mughlai,Lucknowi,Hyderabadi,Desserts,Beverages",31,Sun City,5.0,57212,Medium Delivery
+LunchBox - Meals and Thalis,4.2,"Thalis,North Indian,Biryani,South Indian,Desserts,Beverages",30,Sun City,5.0,63016,Medium Delivery
+The Biryani Life,3.4,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,Desserts,Beverages",32,Sun City,5.0,189371,Medium Delivery
+Sweet Truth - Cake and Desserts,4.3,"Desserts,Ice Cream,Bakery,Beverages",27,Sun City,5.0,57215,Medium Delivery
+Mealy - Your Everyday Meal,4.3,"Street Food,North Indian,Beverages",34,Sun City,4.5,1148002,Medium Delivery
+Wow! Momo,4.0,"Momos,Chinese,fastfood,Asian,Beverages",41,ATTAPUR IOCL,4.2,1272421,Slow Delivery
+Pizza Hut,4.3,Pizzas,40,Santosh Nagar,5.0,677776,Slow Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",43,Malakpet,7.9,650819,Slow Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",59,ABIDS,7.1,603116,Slow Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",26,Shahalibanda,2.1,370395,Medium Delivery
+Lucky Restaurant,4.3,"Biryani,Tandoor",31,Santosh Nagar,5.0,40377,Medium Delivery
+Shah Ghouse Hotel & Restaurant,4.4,"Biryani,Chinese,Mughlai,Tandoor",29,Charminar,1.9,79706,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.5,"Desserts,Ice Cream",28,Shamshabad,7.2,377929,Medium Delivery
+Al Rabea Al Arabi Cafeteria,4.5,"Lebanese,Arabian",31,Santoshnagar & Saidabad,5.0,109168,Medium Delivery
+LunchBox - Meals and Thalis,4.5,"Thalis,North Indian,Biryani,South Indian,Desserts,Beverages",35,Shamshabad,7.2,259463,Medium Delivery
+The Biryani Life,3.8,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,Desserts,Beverages",34,shamshabad,7.2,259462,Medium Delivery
+Sweet Truth - Cake and Desserts,4.5,"Desserts,Ice Cream,Bakery,Beverages",33,Shamshabad,7.2,259460,Medium Delivery
+Rumaan Restaurant,4.2,"Biryani,Chinese,Indian,Kebabs,Tandoor",33,Chandrayanagutta,2.4,137307,Medium Delivery
+Burger King,4.2,"Burgers,American",34,Santoshnagar & Saidabad,6.7,644865,Medium Delivery
+McDonald's,4.2,"Burgers,Beverages,Cafe,Desserts",55,Abids,7.4,118745,Slow Delivery
+KFC,4.0,"Burgers,Fast Food,Rolls & Wraps",30,Santosh nagar,3.8,774104,Medium Delivery
+Scoops Ice Cream,4.6,"Ice Cream,Desserts",24,Lal Darwaza,1.7,77904,Fast Delivery
+Agra Sweets Banjara,4.3,"Sweets,Desserts,Chaat,Snacks,Beverages",31,Kharmanghat,7.3,2533,Medium Delivery
+Veg Meals By LunchBox,4.1,"Thalis,North Indian,Biryani,South Indian,Desserts,Beverages",35,Shamshabad,7.2,263876,Medium Delivery
+Dum Safar Biryani,4.1,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",52,ABIDS,7.1,639526,Slow Delivery
+Kwality Walls Ice Cream and More,4.6,"Desserts,Ice Cream,Ice Cream Cakes",42,Kothapet & Dilsukhnagar,5.7,401132,Slow Delivery
+Wow! Momo,4.4,"Momos,Chinese,fastfood,Asian,Beverages",36,Champapet,7.6,1123780,Slow Delivery
+Raju Gari Biryani,3.8,"Biryani,Chinese",30,"Meerpet,Hanuman Nagar,Nandana vanam",8.1,807765,Medium Delivery
+Bakingo,4.6,"Bakery,Desserts,Beverages,Snacks",35,SV Towers Santosh Nagar,5.6,1271469,Medium Delivery
+Dabba & Co.,4.3,"Home food,Indian,Thalis",32,shamshabad,7.2,1054283,Medium Delivery
+Pizza Hut,4.3,Pizzas,32,Secunderabad,2.8,644815,Medium Delivery
+NIC Ice Creams,4.7,"Ice Cream,Desserts",24,TIRUMALAGIRI,2.9,667628,Fast Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",22,Jubli House,0.7,452522,Fast Delivery
+Barbeque Nation,4.0,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",49,A S Rao Nagar,7.1,300364,Slow Delivery
+Bakingo,4.7,"Bakery,Desserts,Beverages,Snacks",36,Rasool pura,4.5,183789,Slow Delivery
+United Kitchens of India,4.4,"North Indian,Andhra",26,Karkhana,0.1,78441,Medium Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",27,Begumpet,3.0,369902,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,Kharkhana & Trimulgherry,1.6,681624,Fast Delivery
+Natural Ice Cream,4.8,"Ice Cream,Desserts",34,Banjara Hills,4.5,32125,Medium Delivery
+Grill 9,4.2,"Biryani,Chinese,Kebabs,Arabian,Lebanese",31,Kharkhana & Trimulgherry,0.2,3916,Medium Delivery
+Go Zero Ice Creams & Desserts,4.6,"Ice Cream,Desserts,Healthy Food",27,Alwal,2.8,860935,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",25,TIRUMALAGIRI,2.9,667629,Fast Delivery
+Cream Stone Ice Cream,4.5,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",34,SP Road,4.5,2341,Medium Delivery
+Paradise Biryani,4.2,"Biryani,Kebabs,North Indian,Hyderabadi",33,Bowenpally,2.7,570561,Medium Delivery
+KFC,4.3,"Burgers,Fast Food,Rolls & Wraps",23,Karkhana,1.1,17101,Fast Delivery
+Blue Fox,4.4,"Biryani,Chinese,Tandoor",36,SD Road,3.0,2348,Slow Delivery
+Indulge Ice Cream By Almond House,4.7,Desserts,35,Shivaji Nagar,3.0,266000,Medium Delivery
+Daily Kitchen - Everyday Homely Meals,4.3,"Home Food,Indian,North Indian,Thalis",25,Bowenpally,1.6,750408,Fast Delivery
+Zomoz - The Momo Company,4.5,"Momos,Fast Food",31,West Marredpally,1.7,312303,Medium Delivery
+"Bhatti Chicken - Grilled, NOT Fried!",4.5,"North Indian,Snacks,Fast Food,Tandoor",25,Bowenpally,1.6,616285,Fast Delivery
+Pizza Hut,4.4,Pizzas,33,Bowenpally,2.6,1005030,Medium Delivery
+Domino's Pizza,4.3,"Pizzas,Italian,Pastas,Desserts",25,Vikrampuri Colony,0.2,1337358,Fast Delivery
+Raju Gari Biryani,3.9,Biryani,28,Kharkhana & Trimulgherry,2.2,1148881,Medium Delivery
+Lucky MultiCuisine Restaurant,3.9,Biryani,21,Kharkhana & Trimulgherry,0.4,1230431,Fast Delivery
+Pizza Hut,4.3,Pizzas,38,Kompally,4.6,72623,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",32,Kompally,4.4,448721,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",40,Jubli House,6.2,452522,Slow Delivery
+Pista House Haleem,4.6,Haleem,32,Suchitra Circle,4.3,370799,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",34,Kompally,4.4,448722,Medium Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",32,Suchitra Circle,4.5,335332,Medium Delivery
+Oven Story Pizza,4.5,"Pizzas,Pastas,Italian,Desserts,Beverages",27,Karkhana,4.6,92489,Medium Delivery
+"Faasos - Wraps, Rolls & Shawarma",4.0,"Kebabs,Fast Food,Snacks,American,Healthy Food,Desserts,Beverages",35,Suchitra Circle,4.1,168816,Medium Delivery
+Paradise Biryani,4.2,"Biryani,Kebabs,North Indian,Hyderabadi",37,Bowenpally,3.8,570561,Slow Delivery
+Sweet Truth - Cake and Desserts,4.2,"Desserts,Ice Cream,Bakery,Beverages",32,Suchitra Circle,4.5,168822,Medium Delivery
+Hotel Swagath Grand - Dhanturi Group of Hotels,4.1,"Biryani,Chinese,South Indian,North Indian,Tandoor",33,Suchitra,3.6,14787,Medium Delivery
+McDonald's,4.5,"Burgers,Beverages,Cafe,Desserts",30,Alwal,4.6,858816,Medium Delivery
+Subway,4.0,"sandwich,Salads,wrap,Healthy Food",34,Diamond point,4.6,12167,Medium Delivery
+KFC,4.2,"Burgers,Fast Food,Rolls & Wraps",31,Jeedimetla,3.6,17103,Medium Delivery
+Krispy Kreme - Doughnuts & Coffee,4.3,"Desserts,Cafe,Bakery,Coffee,Beverages,Snacks",36,SD Road,6.9,456702,Slow Delivery
+Ohri's Cake Nation,4.3,"Bakery,Desserts,Beverages",36,SD Road,6.8,62510,Slow Delivery
+McDonald's Gourmet Burger Collection,4.6,"Burgers,Beverages,Cafe,Desserts",33,Alwal,4.6,858818,Medium Delivery
+Kwality Walls Ice Cream and More,4.6,"Desserts,Ice Cream,Ice Cream Cakes",26,Kharkhana & Trimulgherry,3.5,456893,Medium Delivery
+Bakingo,4.7,"Bakery,Desserts,Beverages,Snacks",40,Rasool pura,6.1,183789,Slow Delivery
+McCafe by McDonald's,4.5,"Beverages,Desserts",34,Alwal,4.6,858817,Medium Delivery
+Pizza Hut,4.4,Pizzas,34,Bowenpally,3.0,1005030,Medium Delivery
+Raju Gari Biryani,3.9,Biryani,28,Alwal,3.0,1131070,Medium Delivery
+Antera Kitchen and Bar,4.3,Indian,36,Kompally,6.2,1064876,Slow Delivery
+Bakingo,4.7,"Bakery,Desserts,Beverages,Snacks",35,Angodpet Petbasheerabad Kompally,4.8,901187,Medium Delivery
+My Friends Circle Restaurant,4.2,"Biryani,Chinese,Kebabs,Tandoor",32,Medchal,2.9,21947,Medium Delivery
+Dabba & Co.,3.9,"Home food,Indian,Thalis",32,Quthbullapur,4.1,1054203,Medium Delivery
+Pizza Hut,4.3,Pizzas,35,Nallakunta,3.0,320222,Medium Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",29,Habsiguda,3.7,586950,Medium Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",33,Narayanguda,5.0,108986,Medium Delivery
+Domino's Pizza,4.4,"Pizzas,Italian,Pastas,Desserts",25,Himayath Nagar,3.0,24606,Fast Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",47,Near RGI Cricket Stadium,4.2,753320,Slow Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",38,Narayanguda,5.0,355747,Slow Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",33,Habsiguda,5.0,335327,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,Himayath Nagar,1.9,681606,Fast Delivery
+Chinese Wok,4.0,"Chinese,Asian,Tibetan,Desserts",36,Uppal,4.8,643183,Slow Delivery
+Theobroma,4.6,Desserts,31,Uppal,5.5,699662,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.4,"Desserts,Ice Cream",28,Amberpet,3.0,336986,Medium Delivery
+Big Bowl,3.9,"Chinese,Tibetan,Desserts",36,Uppal,4.8,643187,Slow Delivery
+Go Zero Ice Creams & Desserts,4.3,"Ice Cream,Desserts,Healthy Food",21,Amberpet,2.7,846328,Fast Delivery
+Paradise Biryani,4.0,"Biryani,Kebabs,North Indian,Hyderabadi",30,UPPAL,4.7,577846,Medium Delivery
+Sweet Truth - Cake and Desserts,4.3,"Desserts,Ice Cream,Bakery,Beverages",37,New Malakpet,3.7,124595,Slow Delivery
+KFC,4.1,"Burgers,Fast Food,Rolls & Wraps",24,Shivam Road,3.0,509448,Fast Delivery
+Burger King,4.2,American,34,Uppal,4.8,616393,Medium Delivery
+Subway,4.4,"sandwich,Salads,wrap,Healthy Food",27,Amberpet,3.0,8788,Medium Delivery
+BOX8 - Desi Meals,4.5,"North Indian,Biryani,Thalis,Home Food",25,Himayath Nagar,1.9,491965,Fast Delivery
+Raju Gari Biryani,3.8,"Chinese,Biryani,Indian",15,Uppal,1.3,1172926,Fast Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",30,Uppal,4.4,519698,Medium Delivery
+Hotel Mukrram,4.3,"Biryani,Arabian,Chinese,Lebanese,Desserts,Beverages",26,Amberpet,1.4,113377,Medium Delivery
+Pizza Hut,4.4,Pizzas,41,Attapur,3.6,11091,Slow Delivery
+Barbeque Nation,4.1,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",39,Attapur,1.6,659667,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",26,Attapur,4.9,390618,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",60,Banjara Hills,10.5,312149,Slow Delivery
+Homely,3.6,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",40,Sun City,8.2,180324,Slow Delivery
+Pista House Haleem,4.6,Haleem,25,Attapur,1.6,370610,Fast Delivery
+Dum Safar Biryani,4.2,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",36,Attapur,1.6,659669,Slow Delivery
+Go Zero Ice Creams & Desserts,4.3,"Ice Cream,Desserts,Healthy Food",24,Hydershakote,2.0,843574,Fast Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",27,Attapur,4.9,390619,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,Attapur,3.0,681605,Fast Delivery
+Baskin Robbins - Ice Cream Desserts,4.5,"Desserts,Ice Cream",25,Shamshabad,5.9,377929,Fast Delivery
+LunchBox - Meals and Thalis,4.5,"Thalis,North Indian,Biryani,South Indian,Desserts,Beverages",32,Shamshabad,5.9,259463,Medium Delivery
+Behrouz Biryani,4.1,"Biryani,Kebabs,Mughlai,Lucknowi,Hyderabadi,Desserts,Beverages",36,shamshabaad,5.9,259457,Slow Delivery
+"Faasos - Wraps, Rolls & Shawarma",3.9,"Kebabs,Fast Food,Snacks,American,Healthy Food,Desserts,Beverages",36,Sun City,7.4,57211,Slow Delivery
+The Biryani Life,3.8,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,Desserts,Beverages",32,shamshabad,5.9,259462,Medium Delivery
+Sweet Truth - Cake and Desserts,4.5,"Desserts,Ice Cream,Bakery,Beverages",30,Shamshabad,5.9,259460,Medium Delivery
+The Good Bowl,4.1,"Biryani,Pastas,Punjabi,Desserts,Beverages",33,Sun City,7.4,156122,Medium Delivery
+Burger King,4.2,"Burgers,American",34,Attapur,3.6,362596,Medium Delivery
+BOX8 - Desi Meals,4.4,"North Indian,Biryani,Thalis,Home Food",25,Attapur,3.0,491959,Fast Delivery
+Mealful Rolls - India's Biggest Rolls,3.8,"Fast Food,Snacks,North Indian,Desserts",25,Attapur,3.0,491961,Fast Delivery
+Wow! Momo,4.0,"Momos,Chinese,fastfood,Asian,Beverages",36,ATTAPUR IOCL,2.5,1272421,Slow Delivery
+Mealy - Your Everyday Meal,4.3,"Street Food,North Indian,Beverages",44,Sun City,8.2,1148002,Slow Delivery
+Raju Gari Biryani,4.3,Biryani,31,Attapur,3.7,1073505,Medium Delivery
+Pizza Hut,4.4,Pizzas,32,Tolichowki,1.9,340856,Medium Delivery
+Little Italy,4.3,"Italian,Pizzas,Pastas,Salads,Desserts",34,Jubilee Hills,1.6,1203,Medium Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",27,Toli Chowki,2.0,168402,Medium Delivery
+Domino's Pizza,4.3,"Pizzas,Italian,Pastas,Desserts",25,Hakimpet,0.9,24638,Fast Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",45,Banjara Hills,4.7,312149,Slow Delivery
+Homely,4.0,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",45,Banjarahills,4.3,77671,Slow Delivery
+Varalakshmi Tiffins,4.6,South Indian,27,Jubliee hills,1.4,344287,Medium Delivery
+Lucky Restaurant,4.1,"Biryani,Tandoor",27,Banjara Hills,3.8,358725,Medium Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",38,Shaikpet,3.0,335331,Slow Delivery
+Bakingo,4.6,Bakery,28,Tolichowki,2.5,436045,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.7,"Desserts,Ice Cream",18,Shaikpet,0.5,505763,Fast Delivery
+Go Zero Ice Creams & Desserts,4.4,"Ice Cream,Desserts,Healthy Food",26,Manikonda,2.6,691049,Medium Delivery
+Flavours of Taj Mahal Hotel,4.6,"South Indian,North Indian,Biryani,Snacks",29,Jubilee Hills,1.5,1387,Medium Delivery
+Grameen Kulfi,4.6,"Ice Cream,Desserts",34,Toli Chowki,2.0,355750,Medium Delivery
+BOX8 - Desi Meals,4.5,"North Indian,Biryani,Thalis,Home Food",25,Mehdipatnam,3.0,402943,Fast Delivery
+Mealful Rolls - India's Biggest Rolls,4.1,"Fast Food,Snacks,North Indian,Desserts",25,Tolichowki,3.0,402945,Fast Delivery
+Daily Kitchen - Everyday Homely Meals,4.5,"Home Food,Indian,North Indian,Thalis",25,Tolichowki,3.0,750340,Fast Delivery
+"Bhatti Chicken - Grilled, NOT Fried!",4.5,"North Indian,Snacks,Fast Food,Tandoor",25,Mehdipatnam,3.0,616219,Fast Delivery
+Hotel Rumaan,4.3,"Biryani,Chinese,Indian,Kebabs,Tandoor",33,Tolichowki,2.6,82407,Medium Delivery
+Barbeque Nation,3.8,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",62,Jubilee Hills,4.6,300353,
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",44,Banjarahills,4.3,1111967,Slow Delivery
+Pizza Hut,4.3,Pizzas,33,Secunderabad,3.0,644815,Medium Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",47,Necklace Mall,4.7,608721,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",29,Begumpet,3.0,108985,Medium Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",29,Begumpet,3.9,369902,Medium Delivery
+Lucky Restaurant,4.1,"Biryani,Tandoor",36,Banjara Hills,6.9,358725,Slow Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,SINDHI COLONY,2.7,681598,Fast Delivery
+Natural Ice Cream,4.8,"Ice Cream,Desserts",24,Banjara Hills,1.5,32125,Fast Delivery
+Bakingo,4.7,"Bakery,Desserts,Beverages,Snacks",28,Rasool pura,2.0,183789,Medium Delivery
+Theobroma,4.5,Desserts,41,Somajiguda,4.2,376914,Slow Delivery
+Almond House,4.7,"Sweets,Desserts,Snacks,Beverages",30,Secunderabad,1.4,268615,Medium Delivery
+Meridian Restaurant,4.4,"Biryani,Chinese,Kebabs",35,Panjagutta,4.1,25251,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",33,Begumpet,3.0,355746,Medium Delivery
+Paradise Biryani,4.3,"Biryani,Kebabs,North Indian,Hyderabadi",26,Begumpet,2.0,7411,Medium Delivery
+Ohri's Cake Nation,4.4,"Bakery,Desserts,Beverages",33,Ameerpet,3.0,73759,Medium Delivery
+Subway,4.2,"sandwich,Salads,wrap,Healthy Food",37,SP Road,1.9,16571,Slow Delivery
+KFC,4.2,"Burgers,Fast Food,Rolls & Wraps",28,Secunderabad,1.7,698238,Medium Delivery
+BOX8 - Desi Meals,4.6,"North Indian,Biryani,Thalis,Home Food",25,SINDHI COLONY,2.7,482473,Fast Delivery
+Telangana Spice Kitchen,4.4,"Chinese,Beverages",35,Secunderabad,2.9,738913,Medium Delivery
+Daily Kitchen - Everyday Homely Meals,4.5,"Home Food,Indian,North Indian,Thalis",25,SINDHI COLONY,2.7,750382,Fast Delivery
+Mealful Rolls - India's Biggest Rolls,4.5,"Fast Food,Snacks,North Indian,Desserts",25,SINDHI COLONY,2.7,482474,Fast Delivery
+Barbeque Nation,4.3,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",55,Banjara Hills,5.8,300363,Slow Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",51,Banjarahills,6.6,1111967,Slow Delivery
+Homely,4.0,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",52,Banjarahills,6.6,77671,Slow Delivery
+Raju Gari Biryani,3.8,"Chinese,Biryani,Desserts,Beverages,Tandoor",33,Ameerpet,3.6,920068,Medium Delivery
+Pizza Hut,4.3,Pizzas,28,Secunderabad,1.7,644815,Medium Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",36,Necklace Mall,2.1,608721,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",26,Bhoiguda,2.2,359256,Medium Delivery
+Domino's Pizza,4.6,"Pizzas,Italian,Pastas,Desserts",25,P G Road Sindhi Colony,2.8,28777,Fast Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",24,Begumpet,2.1,369902,Fast Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,SINDHI COLONY,1.5,681598,Fast Delivery
+Bakingo,4.7,"Bakery,Desserts,Beverages,Snacks",31,Rasool pura,2.8,183789,Medium Delivery
+Natural Ice Cream,4.8,"Ice Cream,Desserts",26,Banjara Hills,2.1,32125,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.6,"Desserts,Ice Cream",30,PRENDERGHAST ROAD,1.8,788229,Medium Delivery
+Blue Fox,4.4,"Biryani,Chinese,Tandoor",31,SD Road,1.4,2348,Medium Delivery
+Wow! China,4.2,"Chinese,Asian,fastfood,Beverages,Snacks",41,East Maredpally,3.0,608719,Slow Delivery
+Telangana Spice Kitchen,4.4,"Chinese,Beverages",31,Secunderabad,1.7,738913,Medium Delivery
+Flavours of Taj Mahal Hotel,4.6,"South Indian,North Indian,Biryani,Snacks",32,Kalasiguda,1.6,2770,Medium Delivery
+Grameen Kulfi,4.8,"Ice Cream,Desserts",33,Bhoiguda,2.2,359812,Medium Delivery
+Wow! Chicken By Wow! Momo,3.8,"Burger,Biryani,American,fastfood",36,Nallakunta & Vidyanagar,2.1,608720,Slow Delivery
+Paradise Biryani,4.5,"Biryani,Kebabs,Hyderabadi,Rolls & Wraps",26,Ramgopalpet,1.7,2305,Medium Delivery
+Sweet Truth - Cake and Desserts,4.3,"Desserts,Ice Cream,Bakery,Beverages",35,Himayatnagar,3.0,35542,Medium Delivery
+Subway,4.4,"sandwich,Salads,wrap,Healthy Food",26,SD Road Rezimental Bazar,2.1,8786,Medium Delivery
+KFC,4.2,"Burgers,Fast Food,Rolls & Wraps",29,Secunderabad,2.0,698238,Medium Delivery
+Euphoria,4.6,"Desserts,Bakery",34,Kharkhana & Trimulgherry,3.8,251589,Medium Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",55,ABIDS,5.5,603116,Slow Delivery
+Raju Gari Biryani,3.9,Biryani,27,Nallakunta & Vidyanagar,2.1,1022488,Medium Delivery
+Azam Hotel,4.3,"Biryani,North Indian,Tandoori,South Indian",26,MG Road,0.6,66023,Medium Delivery
+Pizza Hut,4.4,Pizzas,43,Attapur,4.7,11091,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",40,Narayanguda,7.3,108986,Slow Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",41,Malakpet,7.2,650819,Slow Delivery
+Barbeque Nation,4.1,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",49,Attapur,5.0,659667,Slow Delivery
+Pista House Haleem,4.5,"Haleem,Biryani",33,Charminar,3.0,370411,Medium Delivery
+Lucky Restaurant,4.0,"Biryani,Tandoor",44,Banjara Hills,6.2,367769,Slow Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",44,Narayanguda,7.3,355747,Slow Delivery
+Shah Ghouse Hotel & Restaurant,4.4,"Biryani,Chinese,Mughlai,Tandoor",33,Charminar,2.7,79706,Medium Delivery
+Baskin Robbins - Ice Cream Desserts,4.4,"Ice Cream,Beverages",43,Masab Tank,5.7,44119,Slow Delivery
+Al Rabea Al Arabi Cafeteria,4.4,"Arabian,Lebanese",44,Mehdipatnam,6.2,28108,Slow Delivery
+Go Zero Ice Creams & Desserts,4.3,"Ice Cream,Desserts,Healthy Food",29,Hydershakote,3.6,843574,Medium Delivery
+LunchBox - Meals and Thalis,4.3,"Thalis,North Indian,Biryani,South Indian,Desserts,Beverages",48,Abids,5.0,233057,Slow Delivery
+The Biryani Life,3.8,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,Desserts,Beverages",45,Abids,5.0,233056,Slow Delivery
+Sweet Truth - Cake and Desserts,4.2,"Desserts,Ice Cream,Bakery,Beverages",50,Abids,5.0,233054,Slow Delivery
+Imperial Multicuisine Restaurant,4.2,"Biryani,Chinese,Indian,Kebabs,Tandoor",40,Redhills,5.0,262087,Slow Delivery
+McDonald's,4.2,"Burgers,Beverages,Cafe,Desserts",49,Abids,5.0,118745,Slow Delivery
+Burger King,4.2,"Burgers,American",37,Attapur,4.7,362596,Slow Delivery
+Scoops Ice Cream,4.6,"Ice Cream,Desserts",36,Charminar,2.4,77902,Slow Delivery
+Agra Sweets Banjara,4.4,"Sweets,Desserts,Chaat,Snacks,Beverages",32,Rambagh Colony,5.0,30253,Medium Delivery
+Wow! Momo,4.0,"Momos,Chinese,fastfood,Asian,Beverages",43,ATTAPUR IOCL,5.0,1272421,Slow Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",34,Charminar,3.0,854688,Medium Delivery
+Varalakshmi Tiffins,4.5,South Indian,31,Attapur,5.0,1294737,Medium Delivery
+Bakingo,4.7,"Bakery,Desserts,Beverages,Snacks",32,Rajendra Nagar,6.0,1225135,Medium Delivery
+Pizza Hut,4.3,Pizzas,25,Nallakunta,1.1,320222,Fast Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",29,Narayanguda,3.9,108986,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",40,Himayath Nagar,5.0,360967,Slow Delivery
+Domino's Pizza,4.4,"Pizzas,Italian,Pastas,Desserts",25,Himayath Nagar,1.8,24606,Fast Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",33,Nallakunta & Vidyanagar,3.9,370408,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",33,Narayanguda,3.9,355747,Medium Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",41,Himayat Nagar,5.6,560732,Slow Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,Himayath Nagar,1.4,681606,Fast Delivery
+Baskin Robbins - Ice Cream Desserts,4.4,"Desserts,Ice Cream",18,Amberpet,1.1,336986,Fast Delivery
+Theobroma,4.5,Desserts,46,Himayath Nagar,5.0,547809,Slow Delivery
+Go Zero Ice Creams & Desserts,4.3,"Ice Cream,Desserts,Healthy Food",19,Amberpet,2.1,846328,Fast Delivery
+Paradise Biryani,4.2,"Biryani,Kebabs,North Indian,Hyderabadi",41,Himayath Nagar,5.0,7408,Slow Delivery
+Capital Multi Cuisine Restaurant,3.8,"Haleem,Biryani,Kebabs",31,Malakpet,4.0,57903,Medium Delivery
+Subway,4.4,"sandwich,Salads,wrap,Healthy Food",15,Amberpet,0.9,8788,Fast Delivery
+KFC,4.1,"Burgers,Fast Food,Rolls & Wraps",19,Shivam Road,1.8,509448,Fast Delivery
+Burger King,4.2,"Burgers,American",39,New Malakpet,4.9,237003,Slow Delivery
+The Belgian Waffle Co.,4.5,"Waffle,Desserts,Ice Cream,Beverages",30,Uppal,4.0,251527,Medium Delivery
+La Pino'z Pizza,4.2,"Pizzas,Pastas,Italian,Desserts,Beverages",32,NSL Building,4.0,722267,Medium Delivery
+BOX8 - Desi Meals,4.5,"North Indian,Biryani,Thalis,Home Food",25,Himayath Nagar,1.4,491965,Fast Delivery
+The Brooklyn Creamery - Healthy Ice Cream,4.0,"Ice Cream,Desserts,Healthy Food",31,Chikkadpally,3.8,362618,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",41,Kondapur,5.0,523239,Slow Delivery
+Barbeque Nation,3.9,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",49,Near RGI Cricket Stadium,5.0,753320,Slow Delivery
+Raju Gari Biryani,3.8,"Chinese,Biryani,Indian",19,Uppal,2.5,1172926,Fast Delivery
+Wow! Momo,4.4,"Momos,Chinese,fastfood,Asian,Beverages",32,East Maredpally,2.1,608718,Medium Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",35,Bhoiguda,4.2,359256,Medium Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",25,Begumpet,2.4,369902,Fast Delivery
+Grameen Kulfi,4.8,"Ice Cream,Desserts",42,Bhoiguda,4.2,359812,Slow Delivery
+Natural Ice Cream,4.8,"Ice Cream,Desserts",35,Banjara Hills,5.0,32125,Medium Delivery
+LeanCrust Pizza- ThinCrust Experts,4.6,"Pizzas,Italian,Desserts",25,Malkajgiri,2.2,681620,Fast Delivery
+Baskin Robbins - Ice Cream Desserts,4.3,"Desserts,Ice Cream",31,Trimulgherry,4.7,337001,Medium Delivery
+Cream Stone Ice Cream,4.5,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",24,Malkajgiri,2.6,150649,Fast Delivery
+Oven Story Pizza,4.2,"Pizzas,Pastas,Italian,Desserts,Beverages",32,Habsiguda,5.0,25410,Medium Delivery
+Sweet Truth - Cake and Desserts,4.3,"Desserts,Ice Cream,Bakery,Beverages",36,Habsiguda,5.0,35544,Slow Delivery
+The Belgian Waffle Co.,4.6,"Waffle,Desserts,Ice Cream,Beverages",44,Begumpet,5.0,44934,Slow Delivery
+McDonald's,4.4,"Burgers,Beverages,Cafe,Desserts",34,SD Road,3.0,23710,Medium Delivery
+Subway,4.4,"sandwich,Salads,wrap,Healthy Food",26,SD Road Rezimental Bazar,2.3,8786,Medium Delivery
+KFC,4.2,"Burgers,Fast Food,Rolls & Wraps",28,Secunderabad,2.3,693213,Medium Delivery
+Flavours of Taj Mahal Hotel,4.6,"South Indian,North Indian,Biryani,Snacks",36,Kalasiguda,3.0,2770,Slow Delivery
+Zomoz - The Momo Company,4.5,"Momos,Fast Food",34,West Marredpally,2.6,312303,Medium Delivery
+Hotel Swagath Grand - Dhanturi Group of Hotels,4.1,"Biryani,Chinese,South Indian,North Indian,Tandoor",28,Malkajgiri,3.0,43796,Medium Delivery
+Paradise Biryani,4.1,"Biryani,Kebabs,Desserts,Beverages,Haleem",34,Padmarao Nagar,3.0,626811,Medium Delivery
+Domino's Pizza,4.5,"Pizzas,Italian,Pastas,Desserts",25,TARNAKA,2.8,984959,Fast Delivery
+Barbeque Nation,4.0,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",50,A S Rao Nagar,7.5,300364,Slow Delivery
+Raju Gari Biryani,3.9,Biryani,29,Kharkhana & Trimulgherry,2.4,1148881,Medium Delivery
+Varalakshmi Tiffins,4.6,South Indian,32,Paradise circle,4.1,575804,Medium Delivery
+Pizza Hut,4.3,Pizzas,36,Secunderabad,4.3,644815,Slow Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",29,Jubli House,2.3,452522,Medium Delivery
+NIC Ice Creams,4.7,"Ice Cream,Desserts",17,TIRUMALAGIRI,0.9,667628,Fast Delivery
+Barbeque Nation,4.0,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",46,A S Rao Nagar,5.0,300364,Slow Delivery
+Pista House Haleem,4.6,"Haleem,Biryani,Hyderabadi",32,Begumpet,4.6,369902,Medium Delivery
+Natural Ice Cream,4.8,"Ice Cream,Desserts",36,Banjara Hills,5.7,32125,Slow Delivery
+LeanCrust Pizza- ThinCrust Experts,4.5,"Pizzas,Italian,Desserts",25,Kharkhana & Trimulgherry,2.0,681624,Fast Delivery
+United Kitchens of India,4.4,"North Indian,Andhra",33,Karkhana,2.0,78441,Medium Delivery
+Theobroma,4.6,Desserts,27,Karkhana,1.2,550107,Medium Delivery
+Paradise Biryani,4.2,"Biryani,Kebabs,North Indian,Hyderabadi",37,Bowenpally,4.0,570561,Slow Delivery
+Cream Stone Ice Cream,4.6,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",48,A S Rao Nagar,5.7,10744,Slow Delivery
+Concu,4.6,"Cafe,Desserts,Beverages",36,Maredpally,4.0,482701,Slow Delivery
+Subway,4.0,"sandwich,Salads,wrap,Healthy Food",31,Diamond point,3.0,12167,Medium Delivery
+KFC,4.3,"Burgers,Fast Food,Rolls & Wraps",29,Karkhana,2.8,17101,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",18,TIRUMALAGIRI,0.9,667629,Fast Delivery
+5th Avenue Bakers,4.4,"American,Fast Food,Snacks,Desserts,Bakery,Italian",33,Sainikpuri,4.8,3895,Medium Delivery
+The Pizza Project by Oven Story,4.1,"Pizzas,Italian,Desserts,Beverages",32,Karkhana,2.7,837890,Medium Delivery
+Agra Sweets Banjara,4.5,"Sweets,Desserts,Chaat,Snacks,Beverages",28,East Nehru Nagar,3.0,9020,Medium Delivery
+Wow! China,4.0,"Chinese,Asian,fastfood,Beverages,Snacks",30,Jubli House,2.3,452521,Medium Delivery
+BOX8 - Desi Meals,4.3,"North Indian,Biryani,Thalis,Home Food",25,Kharkhana & Trimulgherry,2.0,555457,Fast Delivery
+Pizza Hut,4.4,Pizzas,37,Bowenpally,4.1,1005030,Slow Delivery
+Domino's Pizza,4.3,"Pizzas,Italian,Pastas,Desserts",25,Vikrampuri Colony,1.9,1337358,Fast Delivery
+Raju Gari Biryani,3.9,Biryani,31,Kharkhana & Trimulgherry,3.0,1148881,Medium Delivery
+Varalakshmi Tiffins,4.6,South Indian,33,Paradise circle,4.7,575804,Medium Delivery
+Pizza Hut,4.3,Pizzas,41,Sanathnagar,4.9,595197,Slow Delivery
+Domino's Pizza,4.3,"Pizzas,Italian,Pastas,Desserts",25,Sangeeth Nagar,2.0,618652,Fast Delivery
+Wow! Momo,4.2,"Momos,Chinese,fastfood,Asian,Beverages",29,Moosapet,1.4,609317,Medium Delivery
+Barbeque Nation,4.4,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",61,Kukatpally,7.4,300355,
+Homely,4.1,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",55,Kukatpally,5.8,193570,Slow Delivery
+Pista House Haleem,4.6,"Haleem,Biryani",34,Sanath Nagar,4.9,370399,Medium Delivery
+Harley's Fine Baking,4.6,"Bakery,Desserts",33,Kukatpally,2.1,798842,Medium Delivery
+Cream Stone Ice Cream,4.6,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",36,Kukatpally,4.5,1853,Slow Delivery
+KFC,4.0,"Burgers,Fast Food,Rolls & Wraps",25,Jeedimetla & Chintal,2.3,458199,Fast Delivery
+Chinese Wok,3.9,"Chinese,Asian,Tibetan,Desserts",35,Kukatpally,2.3,492267,Medium Delivery
+Dum Safar Biryani,4.1,"Biryani,Hyderabadi,Kebabs,North Indian,barbeque",61,KUKATPALLY,7.4,639475,
+Hotel Shubham Celebrations - Dhanturi Group of Hotels,4.2,"Biryani,Chinese,South Indian,Tandoor",39,Jeedimetla,7.6,50572,Slow Delivery
+Wow! Chicken By Wow! Momo,3.9,"Burger,Biryani,American,fastfood",67,Kukatpally,7.4,577197,
+Go Zero Ice Creams & Desserts,4.2,"Ice Cream,Desserts,Healthy Food",50,Kukatpally,5.0,657377,Slow Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",43,Kukatpally,4.2,324758,Slow Delivery
+Wow! China,3.7,"Chinese,Asian,fastfood,Beverages,Snacks",64,Lulu Mall,5.9,772165,
+Baskin Robbins - Ice Cream Desserts,4.4,"Desserts,Ice Cream",71,Kukatpally,5.0,769065,
+Wow! Momo,4.4,"Momos,Chinese,fastfood,Asian,Beverages",30,Gachibowli,1.4,267251,Medium Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",52,Kukatpally,5.8,1111966,Slow Delivery
+Raju Gari Biryani,3.7,Biryani,33,Jeedimetla & Chintal,4.9,995708,Medium Delivery
+Pizza Hut,4.4,Pizzas,46,Banjara Hills,3.0,173464,Slow Delivery
+NIC Ice Creams,4.6,"Ice Cream,Desserts",32,Begumpet,3.6,108985,Medium Delivery
+Wow! Momo,4.3,"Momos,Chinese,fastfood,Asian,Beverages",45,Banjara Hills,4.4,312149,Slow Delivery
+Domino's Pizza,4.4,"Pizzas,Italian,Pastas,Desserts",25,Begumpet,2.8,24631,Fast Delivery
+Lucky Restaurant,4.0,"Biryani,Tandoor",36,Banjara Hills,3.6,367769,Slow Delivery
+LeanCrust Pizza- ThinCrust Experts,4.4,"Pizzas,Italian,Desserts",25,Khairatabad,3.0,681600,Fast Delivery
+Natural Ice Cream,4.7,"Ice Cream,Desserts",33,Sri Nagar Colony,4.3,32124,Medium Delivery
+Srikanya,4.3,"Biryani,Andhra,South Indian",33,Panjagutta,2.9,3324,Medium Delivery
+Meridian Restaurant,4.4,"Biryani,Chinese,Kebabs",31,Panjagutta,2.9,25251,Medium Delivery
+Grameen Kulfi,4.7,"Ice Cream,Desserts",35,Begumpet,3.6,355746,Medium Delivery
+Imperial Multicuisine Restaurant,4.2,"Biryani,Chinese,Indian,Kebabs,Tandoor",35,Redhills,3.8,262087,Medium Delivery
+Go Zero Ice Creams & Desserts,4.5,"Ice Cream,Desserts,Healthy Food",31,Gokul Tower,2.9,688357,Medium Delivery
+Harley's Fine Baking,4.6,"Desserts,Fast Food,Bakery,Sweets,Snacks",32,Banjara Hills,2.5,587477,Medium Delivery
+Oven Story Pizza,4.7,"Pizzas,Pastas,Italian,Desserts,Beverages",27,Banjara Hills,4.6,25406,Medium Delivery
+Paradise Biryani,4.4,"Biryani,Kebabs,North Indian,Hyderabadi",34,Khairtabad,3.0,7412,Medium Delivery
+Wow! China,4.0,"Chinese,Asian,fastfood,Beverages,Snacks",35,Prasad Imax,2.9,838833,Medium Delivery
+BOX8 - Desi Meals,4.4,"North Indian,Biryani,Thalis,Home Food",25,Khairatabad,3.0,487211,Fast Delivery
+Daily Kitchen - Everyday Homely Meals,4.4,"Home Food,Indian,North Indian,Thalis",25,Masab Tank,3.0,750384,Fast Delivery
+Mealful Rolls - India's Biggest Rolls,4.3,"Fast Food,Snacks,North Indian,Desserts",25,Masab Tank,3.0,487212,Fast Delivery
+"Bhatti Chicken - Grilled, NOT Fried!",4.3,"North Indian,Snacks,Fast Food,Tandoor",25,Masab Tank,3.0,616261,Fast Delivery
+Pizza Hut,4.3,Pizzas,53,Panjagutta,3.0,52760,Slow Delivery
+Barbeque Nation,4.3,"North Indian,Barbecue,Kebabs,Biryani,Street Food,Snacks",46,Banjara Hills,3.0,300363,Slow Delivery
+Mealy - Your Everyday Meal,4.3,"North Indian,Beverages,Street Food",46,Banjarahills,4.5,1111967,Slow Delivery
+Homely,4.0,"Home Food,North Indian,South Indian,Beverages,Desserts,Thalis",46,Banjarahills,4.5,77671,Slow Delivery
+Raju Gari Biryani,3.8,"Chinese,Biryani,Desserts,Beverages,Tandoor",34,Ameerpet,3.8,920068,Medium Delivery
